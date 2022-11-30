@@ -16,14 +16,14 @@
         background-image: linear-gradient(to right, #608FFF, #1abc9c);
     }
     
-    /* .header img {
+    .header img {
         position: absolute;
         height: 120px;
         width: 120px;
         border-radius: 50%;
-        left: 90px;
+        left: 140px;
         top: 22px;
-    } */
+    }
     
     .header h3 {
         position: absolute;
